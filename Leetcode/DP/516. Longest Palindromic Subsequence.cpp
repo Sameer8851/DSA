@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 /*
 ------------------------------------------------------------
 🧩 Problem: 516. Longest Palindromic Subsequence
