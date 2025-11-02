@@ -62,6 +62,6 @@
     "ostream": "cpp"
   },
   "files.exclude": {
-      "**/*.exe": true
+    "**/*.exe": true
   }
 }
