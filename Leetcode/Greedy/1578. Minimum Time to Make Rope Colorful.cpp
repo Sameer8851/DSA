@@ -96,3 +96,4 @@ public:
         return total;
     }
 };
+
