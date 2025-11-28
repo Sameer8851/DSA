@@ -45,11 +45,11 @@ int main()
 
 
     vector<string> board(8);
-    int ans = solve(0, board, 8);
     for (int i = 0; i < 8; ++i)
     {
         cin >> board[i];
     }
+    int ans = solve(0, board, 8);
     cout << ans << endl;
 
     return 0;
